@@ -93,4 +93,8 @@ To create a transparent, fair, and engaging blockchain-based gaming platform tha
 - .env.example - Add the Private Key of your MetaMask Wallet's account.
 - Readme.md file - Add the Readme content inside this file.
 - package.json file – Replace the `"name"` property value from `"Project-Title"` to your actual project title. <br/>
-*Example:* `"name": "crowdfunding-smartcontract"`
+*Example:* `"name": "crowdfunding-smartcontract"
+`<img width="1358" height="628" alt="Screenshot 2025-07-17 152600" src="https://github.com/user-attachments/assets/2d37b2b3-dfa0-463f-ac16-2974a9b0e8ad" />
+0xee860a1e3d61d80dd657de91427deabdaf0b089694d9768d985925e685f8e887
+
+
